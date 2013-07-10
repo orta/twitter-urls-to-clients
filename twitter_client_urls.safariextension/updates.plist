@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>Extension Updates</key>
+   <array>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>io.github.orta.twitterclienturls</string>
+       <key>Developer Identifier</key>
+       <string>NETCV7NTVF</string>
+       <key>CFBundleVersion</key>
+       <string>0.5</string>
+       <key>CFBundleShortVersionString</key>
+       <string>0.5</string>
+       <key>URL</key> <string>https://raw.github.com/orta/twitter-urls-to-clients/master/twitter_client_urls_0.5.safariextz</string>
+     </dict>
+   </array>
+</dict>
+</plist>
