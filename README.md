@@ -1,4 +1,3 @@
-
 =======================
 
 ![twitter-client-extension-gif](https://f.cloud.github.com/assets/49038/778543/6624aa6c-e9b3-11e2-8531-eeb9d7a7004f.gif)

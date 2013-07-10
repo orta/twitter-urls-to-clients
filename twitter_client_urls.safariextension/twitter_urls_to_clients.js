@@ -31,3 +31,4 @@ var observer = new MutationObserver(function(mutations) {
  
 var config = { attributes: true, childList: true, characterData: true, subtree: true };
 observer.observe(document.body, config);
+change_twitter_to_clients()
