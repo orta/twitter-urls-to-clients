@@ -13,7 +13,7 @@
        <string>1.1</string>
        <key>CFBundleShortVersionString</key>
        <string>1.1</string>
-       <key>URL</key> <string>https://github.com/orta/twitter-urls-to-clients/raw/master/releases/twitter_client_urls_1.1.safariextz</string>
+       <key>URL</key> <string>https://ortastuff.s3.amazonaws.com/safari_extension_releases/twitter_client_urls_1.1.safariextz</string>
      </dict>
    </array>
 </dict>
