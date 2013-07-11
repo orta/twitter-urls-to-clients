@@ -10,10 +10,10 @@
        <key>Developer Identifier</key>
        <string>NETCV7NTVF</string>
        <key>CFBundleVersion</key>
-       <string>0.5</string>
+       <string>0.6</string>
        <key>CFBundleShortVersionString</key>
-       <string>0.5</string>
-       <key>URL</key> <string>https://github.com/orta/twitter-urls-to-clients/raw/master/releases/twitter_client_urls_0.5.safariextz</string>
+       <string>0.6</string>
+       <key>URL</key> <string>https://github.com/orta/twitter-urls-to-clients/raw/master/releases/twitter_client_urls_0.6.safariextz</string>
      </dict>
    </array>
 </dict>
