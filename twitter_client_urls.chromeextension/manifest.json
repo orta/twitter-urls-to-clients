@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Twitter URLs to Clients",
+  "description": "Converts all Twitter.com urls to mac twitter app specific URLs.",
+  "version": "1.0",
+
+  "content_scripts" : [
+    {
+      "matches" : [ "*://*/*" ],
+      "js" : [ "twitter_urls_to_clients.js" ]
+    }
+  ]
+}
