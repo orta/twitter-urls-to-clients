@@ -10,4 +10,4 @@ Converts all Twitter.com urls to mac twitter app specific URLs, it currently onl
 ### Version 1.1
 [Safari](https://github.com/orta/twitter-urls-to-clients/raw/master/releases/twitter_client_urls_1.1.safariextz)
 
-[Chrome](https://github.com/orta/twitter-urls-to-clients/raw/master/releases/twitter_client_urls_1.1.chromeextension.crx)
+[Chrome](https://github.com/orta/twitter-urls-to-clients/raw/master/releases/twitter_client_urls_1.1.chromeextension.crx) - [Chrome Store](https://chrome.google.com/webstore/detail/twitter-urls-to-clients/ifjdjgbajegbcifahnhcbejcfognlomg)
